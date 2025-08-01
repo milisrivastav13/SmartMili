@@ -31,23 +31,17 @@ Any Java IDE (like IntelliJ IDEA, Eclipse, or VS Code)
 
 📦 Step-by-Step Deployment
 
-1. Clone the Repository
-
-If using Git:  git clone https://github.com/your-username/SmartMili.git
-
-Or simply download the ZIP from GitHub and extract it.
-
-2. Open Project in IDE
+1. Open Project in IDE
 Open your Java IDE.
 Import the SmartMili folder as a Java project.
 
-3. Compile and Run
+2. Compile and Run
 
 Locate the file: Main.java (or the file with your main() method).
 
 Right-click on it → Run or use Run button in your IDE.
 
-4. Use SmartMili
+3. Use SmartMili
 
 Once it starts, type any of these commands in the terminal to use SmartMili:
 
